@@ -1,2 +1,1 @@
-# hello-world
-hello world
+go to the school
